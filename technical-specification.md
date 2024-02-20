@@ -8,11 +8,11 @@
 
 * IO Processor: STM32F103
 
-  *  32 Bit Arm® Cortex®-M3, 72MHz, 64KB SRAM
+  * 32 Bit Arm® Cortex®-M3, 72MHz, 64KB SRAM
 
 * On-board sensors
 
-  *  Accel/Gyro: ICM-42688-P
+  * Accel/Gyro: ICM-42688-P
 
   * Accel/Gyro: BMI055
 
@@ -45,6 +45,8 @@
 * Weight \(Plastic Case\) : 34.6g
 
 ### **Interfaces** {#interfaces}
+
+* **Build-in Buzzer,Build-in RGB LED**
 
 * 16- PWM servo outputs \(8 from IO, 8 from FMU\)
 
