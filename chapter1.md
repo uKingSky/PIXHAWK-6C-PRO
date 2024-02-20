@@ -8,7 +8,7 @@ The Pixhawk® 6C’s H7 microcontroller contain the Arm® Cortex®-M7 core runni
 
 The FMUv6C PRO open standard includes high-performance, low-noise IMUs on board, designed to be cost effective while having IMU redundancy. A vibration isolation System to filter out high-frequency vibration and reduce noise to ensure accurate readings, allowing vehicles to reach better overall flight performances.
 
-The Pixhawk® 6C is perfect for developers at corporate research labs, startups, academics \(research, professors, students\), and commercial application.
+The Pixhawk® 6C PRO is perfect for developers at corporate research labs, startups, academics \(research, professors, students\), and commercial application.
 
 **Key Design Points**
 
