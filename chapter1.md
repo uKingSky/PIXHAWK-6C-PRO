@@ -1,6 +1,6 @@
 # Overview
 
-The Pixhawk® 6C PRO is the latest update to the successful family of Pixhawk® flight controllers, based on the [Pixhawk® FMUv6C Open Standard](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-018%20Pixhawk%20Autopilot%20v6C%20Standard.pdf) and [Connector Standard](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009%20Pixhawk%20Connector%20Standard.pdf). It comes with PX4 Autopilot® pre-installed.
+The Pixhawk® 6C PRO is the latest update to the successful family of Pixhawk® flight controllers, based on the [Pixhawk® FMUv6C Open Standard](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-018 Pixhawk Autopilot v6C Standard.pdf) and [Connector Standard](https://github.com/pixhawk/Pixhawk-Standards/blob/master/DS-009 Pixhawk Connector Standard.pdf). It comes with PX4 Autopilot® pre-installed.
 
 Inside the Pixhawk® 6C PRO , you can find an STMicroelectronics® based STM32H743, paired with sensor technology from Bosch® & InvenSense®, giving you flexibility and reliability for controlling any autonomous vehicle, suitable for both academic and commercial applications.
 
@@ -13,6 +13,8 @@ The Pixhawk® 6C is perfect for developers at corporate research labs, startups,
 **Key Design Points**
 
 * High performance STM32H743 Processor with more computing power & RAM
+
+* **Build-in Buzzer,Build-in RGB LED,support Independent external Safety Button,With Plastic Case**
 
 * New cost-effective design with low-profile form factor
 
